@@ -73,17 +73,11 @@ This workshop was inspired by the fantastic
 [Jessica Lord](https://github.com/jlord) and built on a previous tutorial
 presented by [Duncan Macleod](https://github.com/duncanmmacleod).
 
-## I've completed this workshop 🎉
-
-- [Edward Fauchon-Jones](https://github.com/Galadirith)
-- Sam Peterson
-- [Rafael Mosca](https://github.com/rfma23)
-
 ## License
 
 `learn-github` is released under the [MIT license][license].
 
 [license]: LICENSE.md
-[azure]: https://notebooks.azure.com/import/gh/Galadirith/learn-github
-[binder]: https://mybinder.org/v2/gh/Galadirith/learn-github/master?urlpath=tree/learn-github/1-introduction.ipynb
+[azure]: https://notebooks.azure.com/import/gh/Galadirith/learn-github-solutions
+[binder]: https://mybinder.org/v2/gh/Galadirith/learn-github-solutions/master?urlpath=tree/learn-github/1-introduction.ipynb
 [slides]: https://docs.google.com/presentation/d/1meylnPgFfxCvg-oaSqz9ob8IWs7yB8BKH3INQEa7MbQ/edit?usp=sharing
